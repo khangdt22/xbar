@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.vscode
+cache
+dist
+node_modules
+plugins
+pnpm-lock.yaml
