@@ -1,8 +1,8 @@
 .DS_Store
 .idea
 .vscode
+/plugins
 cache
 dist
 node_modules
-plugins
 pnpm-lock.yaml
